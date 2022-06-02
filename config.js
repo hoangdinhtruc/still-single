@@ -6,7 +6,7 @@ const CONFIG = {
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'chị huỳn có iu chương e hông',
+    title: 'chị huỳn có iu chương e hông😋',
     desc: '',
     btnYes: 'có nha iuiu nhìu nhắm <33',
     btnNo: 'Không nha :3',
